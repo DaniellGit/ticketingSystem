@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ticketingSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DJNativeSwing-SWT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DJNativeSwing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
